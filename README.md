@@ -23,6 +23,7 @@ Use of this protocol requires a Hamilton NGS STAR system with a custom deck layo
 - `MailAlert.zip` can optionally be installed to enable the system to send email notifications for errors or other events.
 - The `NGSStarInputFiles` and `NGSStarOutputFiles` folders must be saved directly under the `C:\` directory.
 - The Cytomat file must be installed prior to use. Use of the Cytomat as tip storage is recommended but optional, depending on user selection.
+- Workflow Protocol for Automated Single-Stranded DNA Library Preparation on Hamilton NGS STAR.pdf
 
 ## References
 
