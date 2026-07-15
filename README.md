@@ -29,11 +29,17 @@ To use the protocol, a Hamilton NGS STAR system with a custom deck layout is req
 
 &#x20;\* Use Hamilton Method Editor to import package file: method, device file, sub-methods, files and liquid classes.
 (Import Mode: Recovery.)
+
 &#x20;\* Supplementary protocols for qPCR setup (MPI_EVA_qPCRSetup.pkg) can be imported the same way as MPI_ssDNA_LibraryPreparation.pkg.
+
 &#x20;\* Lid for Trough_V1.0.zip needs to be installed prior to application. It is recommended to use trough lids but they are optional by setting a specific boolean in the methods.
+
 &#x20;\* MailAlert.zip can be installed to enable the system to send Mails for errors or other notifications.
+
 &#x20;\* NGSStarInputFiles and NGSStarOutputFiles folders has to be save directly in C:\ Directory. 
+
 &#x20;\* CyotmatFile need to be installed prior to application. It is recommended to use Cytomat as Tips storage, but it is optional by user selection.
+
 
 
 \## References
